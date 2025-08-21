@@ -1,0 +1,78 @@
+Uploading and Labeling Photos
+This section provides an overview of the photo upload and labeling process.
+Upon launching Survey Hub, the Photo icon will appear in the top-right corner. When accessed for the first time, a pop-up will display, outlining key features of the photo functionality. The Photos tab is designed to be accessible from any page within Survey Hub, including while completing forms. As forms are scrolled through, the icon will minimize automatically.
+To prevent the pop-up from appearing in the future, select the Do not show this again checkbox and click OK.
+Selecting the Photo button will open a new browser tab. This allows photos to be viewed on one screen while forms remain accessible on another.
+Upon entering the Photos tab, a list of required photos will be displayed. This list may also indicate whether a diagram has been requested by the client. If a “Sketch” is listed as a photo requirement, the RapidSketch button should be used to complete the diagram. Details regarding RapidSketch access will be covered in a later section.
+The photo list shown is the default for most commercial clients. However, Survey Hub supports custom photo lists based on client-specific requirements. For example, a unique list may be generated when a racetrack inspection is ordered. High Value will have a similar default photo list.
+The required photo list represents the minimum number of photos needed. Additional photos will be necessary depending on the type of operation, coverage ordered, and hazards observed at the location. The full client photo requirement SOP is available in the IMT Library and should be referenced regularly.
+Let's first walk through the Manual photo upload process.
+If no photos have been uploaded, a message will appear indicating that no photos are currently available. From this page, 3 actions can be taken:
+1) Uploading Photos.
+2) Using the Get Photo hyperlink for importing photos from Truepic and Hover.
+3) Using the Nearmap hyperlink to retrieve aerial imagery if enabled or requested for the client.
+To upload photos, select the blue Upload Photos button.
+Photos may be dragged and dropped into the upload area or selected manually by browsing the computer.
+Select Browse & Upload Photos:
+Locate the folder containing the images:
+Highlight all relevant photos taken at the location:
+Click Open:
+Below the upload box, supported file types and the maximum file size (10 megabytes per photo) are listed. Scrolling down will reveal the upload status of each photo. A successful upload is indicated by a green checkmark.
+Unsuccessful and unsupported file types will appear at the top of the list with a red error message, indicating that it can not be uploaded.
+Once the desired photos have been added and successfully uploaded, click Continue.
+A pop-up will appear, allowing photos to be labeled and comments to be added. Photos may also be excluded from the report if duplicates are identified. The Delete button should only be used if incorrect photos were uploaded. Duplicates or unnecessary images should always be excluded rather than deleted. This ensures that all photos remain stored and accessible if needed in the future.
+To skip labeling in the pop-up, click Continue and proceed to the main page.
+Unlabeled photos will appear under the Unlabeled category. From here, labeling can be completed quickly and efficiently.
+Lets quickly scroll through and select labels from the drop down.
+For adjacent Exposures, The description will be skipped for now, as a closer examination of the photo is needed to determine what is located to the left of the building.
+Label selection for each picture has been streamlined, enabling quick progress through the list of photos.
+Let's also skip the additional rear photo, as it is a duplicate and should be excluded from the final report.
+Photos can be labeled individually, with a description added to each one. For groups of photos sharing the same label, applying the label first and then copying and pasting the
+description can help speed up the process. Since this group of photos are of the dining room, I will copy dining room and paste the same description.
+After selecting a label, if a comment is required, the description box will be highlighted in red as a visual prompt.
+For photos of fire extinguishers, use the label 'Life Safety Equipment.' Be sure to include in the description the inspection date shown on the tag, and always capture a close-up photo of the tag, as this is a client requirement for any inspection tags on life safety equipment.
+As the final photos are being labeled, please remember to always consult the client guidance and special instructions to confirm that no client-specific photos are required. Also, review the 'Photo Required' SOP in the IMT library for a complete list of required images. Capturing enough photos during the initial visit helps avoid the need for a second trip
+Once photo labeling is complete, the page can be refreshed by selecting the browser’s refresh button. While this step is not required, it is being performed here to demonstrate how photo categories are displayed. There is no need to save progress manually—the photo tab automatically saves each time an action is taken.
+After refreshing the page, any remaining unlabeled photos will still appear under the Unlabeled category. This will be addressed later. Based on the selected photo labels, images are automatically grouped into specific sections. This organization simplifies future review.
+Next, let's review the additional actions available within the Photos tab.
+From the Add button, it is possible to upload more photos, get photos from Truepic and Hover, or add a Nearmap aerial image, if this feature is enabled for the client.
+To upload additional photos, select the Upload button. This will reopen the photo upload pop-up. Follow the same steps outlined earlier to complete the process. To Get Photos from Truepic or Hover, select Get Photo A dialog box will appear as photos are retrieved. Once the photos have successfully been retrieved a success message will appear.
+To add a Nearmap aerial image, select the Nearmap icon.
+A similar pop-up will appear as aerial photos are retrieved. Once the images have been successfully imported, a confirmation message will display.
+These photos will automatically be placed in the 'Aerial Imagery' photo group, with labels and descriptions that include the date taken and the direction of photo.
+The Delete function should only be used when an incorrect photo has been uploaded to the report. All photos taken during the inspection should be uploaded. Any duplicates, blurry images, or unnecessary photos should be excluded from the report rather than deleted. This approach ensures that all captured images remain available for review, which may help prevent the need for corrections or return visits.
+The Duplicate function is useful when highlighting a specific object or feature. This is most commonly used for the Cover Photo. The first photo requirement listed is the Cover photo. This image should best represent the insured location and will appear on the front page of the final report submitted to the client. Often, this is a clear front view of the building. Duplicating the front view allows the same image to be used both as the Cover Photo and as a Front View.
+To duplicate a photo, select the checkbox next to the desired image and click the Duplicate hyperlink. A pop-up will appear prompting the selection of a label and the option to add a comment. For this example, Cover Photo will be selected, followed by clicking Submit.
+The Download hyperlink allows any photo to be saved locally. Select the checkbox next to one or more photos, then click Download.
+All of the action hyperlinks discussed can be completed on one or multiple photos at once.
+The Exclude from Report hyperlink is used to remove photos from the final report without deleting them. For example, if a duplicate photo was uploaded, select the checkbox next to the image and click Exclude from Report. A toaster message will confirm that the photo has been excluded.
+Using Exclude instead of Delete helps prevent accidental loss of photos. This is especially important when working with images captured through mobile capabilities, which will be discussed in a later section.
+To view excluded photos, select the View Excluded hyperlink located on the right-hand side.
+All excluded images will be displayed. To re-include a photo in the report, select the checkbox next to the image and click Include in Report.
+To return to the main view of included photos, click the View Included hyperlink.
+In cases where a required photo is missing due to circumstances beyond control—such as the rear of a building being inaccessible due to a cliff, interior roof construction being fully drywalled with no exposed sections, or the location being an active jobsite—there is a process to document the exception.
+Select the Missing Required Photos hyperlink. A pop-up will appear displaying the list of required photos. Provide a reason for omitting the required image. This step should only be completed after all applicable labels have been used, as submitting a reason too early may remove the required list. If this occurs, the list can be restored by reopening the hyperlink, removing the reason, and selecting Save.
+Let's return to the Adjacent Exposure photo; this label requires a comment. However, the left side of the building is not clearly visible. There are two ways to enlarge the image for better visibility:
+Clicking the photo opens the photo editor. While editing will be covered in detail shortly, this view allows for a closer look. In this case, it reveals that a McDonald’s is located next door. To exit, select the Back button in the upper-right corner.
+Switching to Full Photo View – The default view is Thumbnail View, which is ideal for quickly labeling and commenting. For a detailed view, select Full Photo View. This enlarges each image and allows scrolling through all photos. From this view, photos can also be excluded or deleted.
+Reminder: The Delete function should only be used if the photo does not belong to the current work order.
+In this view, a warning may appear indicating that a description is required. Clicking the photo again opens the editor, where a label and description can be added. The photo can also be excluded from the report if necessary.
+The Photo Editor is the only area where changes are not saved automatically. This design allows for multiple edits before committing changes. If the Back button is selected before saving, a warning will appear asking whether to discard changes. To retain edits, select Cancel and then click the Save icon.
+At the top of the editor, several icons are available:
+Save – will overwrite the current photo with the applied changes.
+Save As– Creates a copy of the photo, preserving the original.
+Reset – Reverts all changes to the original image.
+Delete – Removes the photo (use only if the image does not belong to the work order).
+Download – Saves the image locally.
+In certain situations, a photo may require editing. This may be necessary to highlight a specific item or exposure, zoom in on a particular area, such as the roof, or adjust visual elements like brightness. The editing tool has been designed to provide a comprehensive set of features, enabling effective modification of photos when needed.
+The Editing tools include:
+Zoom, Brightness, and Contrast adjustments.
+360-degree Rotation of the photo
+Freehand Drawing and Line Creation – With adjustable thickness and color when needed
+Adding boxes, circles, or arrows, with options to fill shapes for blurring or blocking out areas completely.
+Adding Text, cropping or resizing of the photo
+The Undo and Redo functions can be found in the upper-left corner for managing mistakes.
+After completing all edits, select Save to preserve changes. If multiple photos require editing, use the navigation arrows to toggle between them.
+The Photos tab is designed to support efficient labeling and description entry. The auto-save feature ensures that progress is preserved, even in the event of internet connectivity loss.
+To support the accuracy and reliability of completed reports, measures have been implemented in Survey Hub to help ensure that all uploaded photos reflect the actual inspection date and location. These safeguards are designed to maintain the integrity of each report and to comply with client requirements. Although not visible during the upload process, they play an important role during the review phase and are essential to upholding quality standards.
+As a final reminder, the Photo Requirement SOP is available in the IMT Library and should be referenced to ensure all client-specific photo requirements are met. Additional guidance may also be found in the client guidance and special requirements.
